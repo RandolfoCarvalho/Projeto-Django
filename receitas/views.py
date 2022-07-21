@@ -10,7 +10,7 @@ def home(request):
 
 
 def contato(request):
-    return HttpResponse('contato')
+    return HttpResponse('contato1')
 
 
 def sobre(request):
